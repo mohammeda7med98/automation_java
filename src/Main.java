@@ -17,9 +17,10 @@ public class Main {
                 System.out.println("no active");
             }
 
-            String name = "My Name Is Mohamed Ahmed";
+            String name = "My Name Is Mohamed Ahmed 2";
 
             System.out.print(name);
+
 
     }
 }
